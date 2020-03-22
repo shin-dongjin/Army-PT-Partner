@@ -1,4 +1,4 @@
-# PT_Partner
+# Army PT Partner Android Application
 An Android application to help army soldiers' to track their physical exam preparation result
 
 Google Playstore Link
