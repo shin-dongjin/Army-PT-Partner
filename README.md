@@ -11,6 +11,8 @@ Users can save their results and delete them.
 
 IDE: Android Studio
 
+Programming Language: Java
+
 Database: SQLite
 
 ## Google Playstore Link
